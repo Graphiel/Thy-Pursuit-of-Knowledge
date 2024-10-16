@@ -18,6 +18,8 @@ title: Thy Pursuit of Knowledge # the main title
 
 tagline: Personal study-stuff of mine. # it will display as the subtitle
 
+meta: Powered by Francisco Jaguaribe. #Overrides "Using the Chirpy theme for Jekyll."
+
 description: >- # used by seo meta and the atom feed
   Just the personal study-stuff of mine. :D
 
