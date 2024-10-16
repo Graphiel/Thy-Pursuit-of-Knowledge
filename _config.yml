@@ -21,8 +21,6 @@ tagline: Personal study-stuff of mine. # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   Just the personal study-stuff of mine. :D
 
-meta: Powered by Open Source CMS. #override "Using the Chirpy theme for Jekyll.,"
-
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://graphiel.github.io"
